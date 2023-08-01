@@ -18,10 +18,10 @@ function App() {
                 </div>
                 <div className="card back">
                     <div>
-                        <span className="name">숭멋사</span>
-                        <span className="position">FE</span>
+                        <span className="name">박정우</span>
+                        <span className="position">BE</span>
                     </div>
-                    <a className="github"></a>
+                    <a className="github" href="https://github.com/Jeoongu"></a>
                 </div>
             </div>
         </>
